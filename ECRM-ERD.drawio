@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T15:25:30.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BMM87y5wC5LqTdrTHoIy" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T16:04:33.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="8bUJXpdYjStnaSBKrdEU" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1888" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -266,7 +266,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fGYFuY1ajb5y5sH2G2P_-48" value="Survey" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="315" height="140" as="geometry">
+          <mxGeometry x="360" y="190" width="315" height="150" as="geometry">
             <mxRectangle x="180" y="520" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -380,6 +380,18 @@
         </mxCell>
         <mxCell id="fGSVErxhAHFvxophwzRS-17" value="br_name varchar NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="fGSVErxhAHFvxophwzRS-15" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbfYsbuTEyOPYsvfAmid-9" value="status_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1">
+          <mxGeometry x="719" y="-40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbfYsbuTEyOPYsvfAmid-13" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="-43" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbfYsbuTEyOPYsvfAmid-14" value="consumer_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1">
+          <mxGeometry x="401" y="310" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbfYsbuTEyOPYsvfAmid-15" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
