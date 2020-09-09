@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T10:45:26.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.564.44" etag="F6CEh5TqTlbJdjRomvim" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T11:27:44.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="XkL0yNEVgybPFUNwVU-g" version="13.6.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1958" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2059" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
             <mxPoint x="1190" y="-230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-105" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="fGSVErxhAHFvxophwzRS-49" edge="1" source="XZb1_N4FotmH0Rhq-9MF-70">
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-105" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-70" target="fGSVErxhAHFvxophwzRS-49" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="605" y="1080" as="sourcePoint" />
             <mxPoint x="670" y="1170" as="targetPoint" />
@@ -519,10 +519,10 @@
         <mxCell id="XZb1_N4FotmH0Rhq-9MF-75" value="br_name varchar NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="XZb1_N4FotmH0Rhq-9MF-73" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y_ndNr6z20q70CwWj1E0-1" value="campaign_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1">
+        <mxCell id="y_ndNr6z20q70CwWj1E0-1" value="campaign_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="1" vertex="1">
           <mxGeometry x="510" y="1170" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y_ndNr6z20q70CwWj1E0-2" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="y_ndNr6z20q70CwWj1E0-2" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="1175" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
