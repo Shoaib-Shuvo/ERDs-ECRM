@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T06:01:27.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="D9mbL6Tb0ZeMpTIqovpZ" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T06:02:15.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="SXDN0FyLa2VW6GNf_GIS" version="13.6.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2059" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -169,12 +169,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-80" y="-480" as="sourcePoint" />
             <mxPoint x="20" y="-585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-111" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;strokeColor=#660033;entryX=-0.003;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-15" target="XZb1_N4FotmH0Rhq-9MF-33" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-960" y="200" as="sourcePoint" />
-            <mxPoint x="-610" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XZb1_N4FotmH0Rhq-9MF-112" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;entryX=-0.013;entryY=0;entryDx=0;entryDy=0;strokeColor=#540AFF;entryPerimeter=0;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-22" target="XZb1_N4FotmH0Rhq-9MF-5" edge="1">
@@ -524,6 +518,12 @@
         </mxCell>
         <mxCell id="XZb1_N4FotmH0Rhq-9MF-21" value="    campaign_name varchar&#xa;    campaign_modality varchar" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="XZb1_N4FotmH0Rhq-9MF-19" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJMVjlVUAg6z7fYUjP31-9" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XZb1_N4FotmH0Rhq-9MF-33" target="XZb1_N4FotmH0Rhq-9MF-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-730" y="70" as="sourcePoint" />
+            <mxPoint x="-630" y="-30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
