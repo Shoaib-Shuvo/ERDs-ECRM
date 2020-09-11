@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T05:51:51.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="OSDifK0dazgS22QYdyXY" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T06:01:27.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="D9mbL6Tb0ZeMpTIqovpZ" version="13.6.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2059" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -171,10 +171,10 @@
             <mxPoint x="20" y="-585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-111" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;strokeColor=#660033;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-19" target="XZb1_N4FotmH0Rhq-9MF-5" edge="1">
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-111" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;strokeColor=#660033;entryX=-0.003;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-15" target="XZb1_N4FotmH0Rhq-9MF-33" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-90" y="-320" as="sourcePoint" />
-            <mxPoint x="10" y="-420" as="targetPoint" />
+            <mxPoint x="-960" y="200" as="sourcePoint" />
+            <mxPoint x="-610" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XZb1_N4FotmH0Rhq-9MF-112" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;entryX=-0.013;entryY=0;entryDx=0;entryDy=0;strokeColor=#540AFF;entryPerimeter=0;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-22" target="XZb1_N4FotmH0Rhq-9MF-5" edge="1">
@@ -245,27 +245,6 @@
         </mxCell>
         <mxCell id="y_ndNr6z20q70CwWj1E0-2" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="416" y="440.39" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-15" value="retailer" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-480" width="250" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="XZb1_N4FotmH0Rhq-9MF-15" vertex="1">
-          <mxGeometry y="30" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-17" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="XZb1_N4FotmH0Rhq-9MF-16" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-18" value="campaign_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="XZb1_N4FotmH0Rhq-9MF-16" vertex="1">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="XZb1_N4FotmH0Rhq-9MF-15" vertex="1">
-          <mxGeometry y="60" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-20" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="XZb1_N4FotmH0Rhq-9MF-19" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZb1_N4FotmH0Rhq-9MF-21" value="    campaign_name varchar&#xa;    campaign_modality varchar" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="XZb1_N4FotmH0Rhq-9MF-19" vertex="1">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y-kqth6wTRDRZ5j-IagN-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;" parent="1" source="XZb1_N4FotmH0Rhq-9MF-29" target="XZb1_N4FotmH0Rhq-9MF-40" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -523,6 +502,27 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZb1_N4FotmH0Rhq-9MF-28" value="    campaign_name varchar&#xa;    campaign_modality varchar" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="XZb1_N4FotmH0Rhq-9MF-26" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-15" value="retailer" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="45.39" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="XZb1_N4FotmH0Rhq-9MF-15" vertex="1">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-17" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="XZb1_N4FotmH0Rhq-9MF-16" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-18" value="campaign_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="XZb1_N4FotmH0Rhq-9MF-16" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="XZb1_N4FotmH0Rhq-9MF-15" vertex="1">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-20" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="XZb1_N4FotmH0Rhq-9MF-19" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XZb1_N4FotmH0Rhq-9MF-21" value="    campaign_name varchar&#xa;    campaign_modality varchar" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="XZb1_N4FotmH0Rhq-9MF-19" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
