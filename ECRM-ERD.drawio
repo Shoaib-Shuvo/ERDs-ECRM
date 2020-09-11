@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T12:09:29.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="tFYuYDHpm9MxYQBkyR4o" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T12:13:40.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MK2Sa45P8hwkHlfxk5Bz" version="13.6.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2059" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry x="745" y="-120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LbfYsbuTEyOPYsvfAmid-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="1" vertex="1">
-          <mxGeometry x="771" y="-130" width="250" height="30" as="geometry" />
+          <mxGeometry x="790" y="-110" width="231" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LbfYsbuTEyOPYsvfAmid-30" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="LbfYsbuTEyOPYsvfAmid-29" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
+          <mxGeometry width="27.720000000000002" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LbfYsbuTEyOPYsvfAmid-31" value="ptr_purchase varchar" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="784" y="-145" width="220" height="30" as="geometry" />
@@ -596,6 +596,18 @@
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-22" value="    campaign_name varchar&#xa;    campaign_modality varchar&#xa;survey_id int" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-20" vertex="1">
           <mxGeometry x="30" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb5sW-PuQPk3l1GWClNR-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-100" width="193" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb5sW-PuQPk3l1GWClNR-10" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Vb5sW-PuQPk3l1GWClNR-9">
+          <mxGeometry width="23.159999999999997" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb5sW-PuQPk3l1GWClNR-11" value="outlet_code" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1" vertex="1" parent="Vb5sW-PuQPk3l1GWClNR-9">
+          <mxGeometry x="23.159999999999997" width="169.84" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb5sW-PuQPk3l1GWClNR-12" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="-102.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
