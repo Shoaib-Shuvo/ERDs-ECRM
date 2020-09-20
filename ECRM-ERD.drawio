@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T06:55:14.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="ZCTlJ--CeP0VyrWE0Rke" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T07:04:46.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 Edg/85.0.564.51" etag="jOqoTKifQ9250ZktcQEh" version="13.7.3" type="github">
   <diagram id="MRnSDp05MokeX1ayKyGW" name="MainPage">
     <mxGraphModel dx="3571" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
           <mxGeometry x="30" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nTexuIGtu3gPZmcs9Yb3-10" value="consumers" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="TOAJVeoJbp4LCh6ammg7-1" vertex="1">
-          <mxGeometry x="-1830" y="-880" width="310" height="170" as="geometry" />
+          <mxGeometry x="-1830" y="-880" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="nTexuIGtu3gPZmcs9Yb3-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="nTexuIGtu3gPZmcs9Yb3-10" vertex="1">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -295,7 +295,7 @@
         <mxCell id="nTexuIGtu3gPZmcs9Yb3-15" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="nTexuIGtu3gPZmcs9Yb3-14" vertex="1">
           <mxGeometry width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="nTexuIGtu3gPZmcs9Yb3-16" value="    consumer_name varchar,&#xa;    consumer_father_name varchar,&#xa;    consumer_dob date,&#xa;    address varchar,&#xa;    consumer_profession varchar,&#xa;    gender varchar(10)&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="nTexuIGtu3gPZmcs9Yb3-14" vertex="1">
+        <mxCell id="nTexuIGtu3gPZmcs9Yb3-16" value="    consumer_name varchar,&#xa;    consumer_father_name varchar,&#xa;    consumer_dob date,&#xa;    address varchar,&#xa;    consumer_profession varchar,&#xa;    gender varchar(10)&#xa;    consumer_status varchar&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="nTexuIGtu3gPZmcs9Yb3-14" vertex="1">
           <mxGeometry x="30" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DEQKKQHbezpIWHNjnzUY-78" value="user_addresses" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="TOAJVeoJbp4LCh6ammg7-1" vertex="1">
